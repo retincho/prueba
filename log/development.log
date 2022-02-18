@@ -1,0 +1,15 @@
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE DATABASE "prueba_development" ENCODING = 'unicode'[0m
+  ↳ /home/deploy/.rbenv/versions/2.7.2/bin/rake:23
+  [1m[35m (0.2ms)[0m  [1m[35mCREATE DATABASE "prueba_test" ENCODING = 'unicode'[0m
+  ↳ /home/deploy/.rbenv/versions/2.7.2/bin/rake:23
+Started GET "/" for 127.0.0.1 at 2022-02-17 10:17:22 -0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/deploy/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/railties-5.2.6/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/deploy/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/railties-5.2.6/lib/rails/templates/rails/welcome/index.html.erb (1.7ms)
+Completed 200 OK in 10ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+
+
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE DATABASE "prueba_development" ENCODING = 'unicode'[0m
+  ↳ bin/rails:4
+  [1m[35m (0.2ms)[0m  [1m[35mCREATE DATABASE "prueba_test" ENCODING = 'unicode'[0m
+  ↳ bin/rails:4
